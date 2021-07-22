@@ -1,0 +1,2 @@
+rootProject.name = "ASM_Project1_Team1"
+include ':app'
